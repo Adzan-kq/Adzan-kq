@@ -12,5 +12,5 @@
 
 ## Github Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdzanDev&layout=compact&theme=city_lights)](https://github.com/AdzanDev)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdzanDev&theme=city_lights&hide=stars,issues&show_icons=true)](https://github.com/AdzanDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdzanDev&langs_count=3&theme=city_lights)](https://github.com/AdzanDev/github-readme-stats)
