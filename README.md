@@ -1,7 +1,6 @@
-<h1 align="left">Hi there, I'm Adzan</h1>
-<hr>
+<h1 align="left">👋 Hi there, I’m Adzan</h1>
 - 🌱 I’m currently learning **React and Next Js**
-<br/>
+<br/><br/>
 📫 Get in touch with me:
 <p align="left">
 <a href="https://dev.to/adzandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/adzandev" height="30" width="40" /></a>
