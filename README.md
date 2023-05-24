@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm @AdzanDev</h1>
-<h3 align="center">I am a student at SMKN 1 Cimahi (Indonesia)</h3>
-
+<h1 align="left">Hi there, I'm Adzan</h1>
+<hr>
 - 🌱 I’m currently learning **React and Next Js**
 <br/>
 📫 Get in touch with me:
