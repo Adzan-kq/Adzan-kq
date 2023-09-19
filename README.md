@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi there, I’m Adzan</h1>
-- 🌱 I’m currently learning **React and Next Js**
+- 🌱 I’m currently learning **Angular framework**
 <br/><br/>
 📫 Get in touch with me:
 <p align="left">
