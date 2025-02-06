@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/React-A1E3F9?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-BE3144?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Nodejs-77B254?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![HonoJs](https://img.shields.io/badge/Honojs-B771E5?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 
 #### Database
