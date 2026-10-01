@@ -11,7 +11,7 @@
   <a href="https://instagram.com/a.jann26">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Adzan-kq&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=Adzan-kq&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /> -->
 </p>
 
 ---
