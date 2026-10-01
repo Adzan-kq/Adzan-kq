@@ -22,9 +22,6 @@
   />
 </p>
 
-
----
-
 ## 🚀 About Me
 
 - 💫 I love learning new things I've never tried before.
