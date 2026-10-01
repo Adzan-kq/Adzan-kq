@@ -1,18 +1,27 @@
-<h1 align="center">Hi there, I'm Muhammad Adzan Nurkholiq 👋</h1>
+<!-- <h1 align="center">Hi there, I'm Muhammad Adzan Nurkholiq 👋</h1>
 
 <p align="center">
   <b>Web Developer</b> · Full-Stack Enthusiast · Lifelong Learner
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-adzan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/a.jann26">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- <img src="https://komarev.com/ghpvc/?username=Adzan-kq&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /> -->
+  <img src="https://komarev.com/ghpvc/?username=Adzan-kq&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p> -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Adzan%20Nurkholiq&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=55&descSize=18"
+    width="100%"
+    alt="Animated Header"
+  />
 </p>
+
 
 ---
 
@@ -55,16 +64,23 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adzan-kq&theme=buefy" alt="Adzan's GitHub stats" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adzan-kq&theme=buefy" alt="Most used languages" />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adzan-kq&theme=github_dark"
+    alt="GitHub statistics"
+  />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adzan-kq&theme=github_dark"
+    alt="Most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adzan-kq&theme=buefy&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adzan-kq&theme=buefy" alt="Adzan's GitHub profile summary" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Adzan-kq&theme=github-dark-blue&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
